@@ -12,11 +12,33 @@
 #p1 {
     font-size: 10px;
 }
-.img1 {
-}
+
 .ABOUT-US {
     text-align: center;
 }
 #p2 {
     font-size: 12px;
+}
+.bg2 {
+    background-image: url("../img/s_image.jpg");
+    background-repeat: no repeat;
+    background-size: cover;
+    text-align: center;
+    color: white;
+}
+.SERVICES {
+    padding-top: 8%;
+    padding-bottom:8%;
+}
+.WHAT {
+    text-align: center;
+}
+.row {
+    text-align: center;
+}
+.port{
+    text-align: center;
+}
+.container {
+    text-align: center;
 }
