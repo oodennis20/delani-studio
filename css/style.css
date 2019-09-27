@@ -1,0 +1,11 @@
+.bg1 {
+    background-image: url("../img/h_img.jpg");
+    background-repeat: no repeat;
+    background-size: cover;
+}
+.WELCOME {
+    text-align: center;
+    padding-top: 20%;
+    padding-bottom: 15%;
+    color: white;
+}
