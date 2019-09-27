@@ -42,3 +42,13 @@
 .container {
     text-align: center;
 }
+.bg3 {
+    background-image: url("../img/c_image.jpg");
+    background-repeat: no repeat;
+    background-size: cover;
+    text-align: center;
+    color: white;
+}
+.CONTACT {
+    padding-top: 3%;
+}
