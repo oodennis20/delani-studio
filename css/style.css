@@ -54,7 +54,29 @@
 }
 #icons {
     margin-left: 350px;
-    margin-right: 320px
+    margin-right: 320px;
+}
+.img1 {
+    position: absolute;
+    top: 104%;
+    left: 50%; 
+}
+.col-sm-4 {
+    background: transparent;
+}
+.form1 {
+    color: white !important;
+    width: 45%;
+    font-size: 12px;
+}
+.form2 {
+    color: white !important;
+    width: 95%;
+    font-size: 12px;
+}
+.footer {
+    text-align: center;
+    font-size: 12px;
 }
 
 
