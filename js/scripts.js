@@ -24,8 +24,8 @@ $("#three").click(function() {
 });
 $(document).ready(function() { 
     $(".col-sm-3").hover(function() { 
-        $(this).css("background-color", "green"); 
+        $(this).css(); 
     }, function() { 
-        $(this).css("background-color", "yellow"); 
+        $(this).css(); 
     }); 
 }); 
