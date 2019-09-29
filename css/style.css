@@ -78,5 +78,26 @@
     text-align: center;
     font-size: 12px;
 }
+#card1{
+    margin-left: 13px;
+    margin-right: 10px;
+    background: transparent;
+    border: none;
+    cursor: pointer;
+}
+#card2{
+    margin-left: 13px;
+    margin-right: 10px;
+    background: transparent;
+    border: none;
+    cursor: pointer;
+}
+#card3{
+    margin-left: 13px;
+    margin-right: 10px;
+    background: transparent;
+    border: none;
+    cursor: pointer;
+}
 
 
