@@ -1,10 +1,10 @@
 $("#one").click(function() {
     $("#paragraph1").toggle(); 
-    $("#one").toggle(   ); 
+    $("#one").toggle(hide); 
 });
  $("#paragraph1").click(function() {
-    $("#one").toggle(show);
-    $("#paragraph1").toggle();
+    $("#one").toggle();
+    $("#paragraph1").toggle(hide);
 });
 $("#two").click(function() {
     $("#paragraph2").toggle();
@@ -24,8 +24,8 @@ $("#three").click(function() {
 });
 $(document).ready(function() { 
     $(".col-sm-3").hover(function() { 
-        $(this).css(); 
+        $(this).css("hide"); 
     }, function() { 
-        $(this).css(); 
+        $(this).css("unhide"); 
     }); 
 }); 
