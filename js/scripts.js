@@ -22,10 +22,4 @@ $("#three").click(function() {
     $("#three").toggle();
     $("#paragraph3").toggle();
 });
-$(document).ready(function() { 
-    $(".col-sm-3").hover(function() { 
-        $(this).css("hide"); 
-    }, function() { 
-        $(this).css("unhide"); 
-    }); 
-}); 
+
