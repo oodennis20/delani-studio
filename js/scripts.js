@@ -8,7 +8,7 @@ $("#one").click(function() {
 });
 $("#two").click(function() {
     $("#paragraph2").toggle();
-    $("#two").toggle(show); 
+    $("#two").toggle(); 
 });
  $("#paragraph2").click(function() {
     $("#two").toggle();
@@ -16,10 +16,11 @@ $("#two").click(function() {
 });
 $("#three").click(function() {
     $("#paragraph3").toggle();
-    $("#three").toggle(show); 
+    $("#three").toggle(); 
 });
  $("#paragraph3").click(function() {
     $("#three").toggle();
     $("#paragraph3").toggle();
 });
+$(document).ready(function)
 
