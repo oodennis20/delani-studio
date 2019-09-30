@@ -1,5 +1,5 @@
-# The Ghanian Akan Names Application
-#### The Ghanian Culture(Akan Names), 21st september 2019
+# Delani Studio Application
+#### The Delani Studio, 28th september 2019
 #### By **Dennis Otieno**
 ## Description
 This application enables the user to contact us through the forms using their emails
