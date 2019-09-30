@@ -100,5 +100,14 @@
     border: none;
     cursor: pointer;
 }
+#paragraph1 {
+    display: none;
+}
+#paragraph2 {
+    display: none;
+}
+#paragraph3 {
+    display: none;
+}
 
 

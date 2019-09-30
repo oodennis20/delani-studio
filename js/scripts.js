@@ -1,10 +1,10 @@
 $("#one").click(function() {
     $("#paragraph1").toggle(); 
-    $("#one").toggle(hide); 
+    $("#one").toggle(); 
 });
  $("#paragraph1").click(function() {
     $("#one").toggle();
-    $("#paragraph1").toggle(hide);
+    $("#paragraph1").toggle();
 });
 $("#two").click(function() {
     $("#paragraph2").toggle();
@@ -12,7 +12,7 @@ $("#two").click(function() {
 });
  $("#paragraph2").click(function() {
     $("#two").toggle();
-    $("#paragraph").toggle();
+    $("#paragraph2").toggle();
 });
 $("#three").click(function() {
     $("#paragraph3").toggle();
