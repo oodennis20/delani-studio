@@ -51,6 +51,7 @@
 }
 .CONTACT {
     padding-top: 3%;
+    text-align: center;
 }
 #icons {
     margin-left: 350px;
@@ -99,5 +100,6 @@
     border: none;
     cursor: pointer;
 }
+
 
 
