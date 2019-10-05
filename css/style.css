@@ -48,7 +48,7 @@
     background-size: cover;
     text-align: center;
     color: white;
-    padding-top: 8%;
+    padding-top: 5%;
     padding-bottom:8%; 
 }
 .contact{
@@ -226,4 +226,10 @@
     background-color:black;
     display: none;
     color:white;
+}
+#socialicons {
+    justify-content: space-around;
+}
+#submit {
+    background-color:#05e0e7; 
 }
